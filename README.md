@@ -1,5 +1,5 @@
 # multipleClipboards
-Very minimal virtual clipboards ade using C. 
+Very minimal virtual clipboards in C. 
 
 # Usage
 - CTRL+C+<board-number>: Copies the given content into the clipboard and also to the given board number.
